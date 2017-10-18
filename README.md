@@ -1,6 +1,6 @@
 # Angular 4 Starter
 
-> This is a great starter for getting straight to the Angular 2 and not dealing with any of the setup.
+This is a great starter for getting straight to the Angular 2 and not dealing with any of the setup.
 
 ## About
 
